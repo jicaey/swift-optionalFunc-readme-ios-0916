@@ -21,6 +21,10 @@ func firstItem(items: [String]) -> String? {
 fruits = ["apple", "banana", "grape"]
 firstItem(fruits)
 
+
+
+
+
 if let fruit = firstItem(fruits) {
     print("The first fruit is \(fruit)")
 } else {
